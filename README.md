@@ -1,4 +1,5 @@
 # React Quiz — `useReducer` Demo (Educational)
+Demo version - https://zesty-liger-69f6fe.netlify.app/
 
 A small React app that demonstrates **state management with `useReducer`** using a quiz as the example. It includes a **finite-state flow** (`loading → ready → active → finished`), a **countdown timer**, scoring, a **highscore**, and **static data loading** from `public/questions.json` (so it deploys cleanly to Netlify without any server).
 
